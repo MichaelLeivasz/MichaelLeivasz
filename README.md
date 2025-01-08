@@ -1,8 +1,6 @@
-## Olá, eu sou Michael Leivas! 👋
+# Olá, eu sou Michael Leivas! 👋
 
-- Software Engineering student at La Salle University
-
-# Vamos nos conectar!
+## Vamos nos conectar!
 <div>
   <br>
     <a href="mailto:macleivas@hotmail.com">
@@ -16,7 +14,7 @@
     </a>
 </div>
 
-# Principais Habilidades
+## Principais Habilidades
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="Python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
