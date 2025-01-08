@@ -1,4 +1,4 @@
-## Hi there, I'm Michael Leivas! 👋
+## Olá, eu sou Michael Leivas! 👋
 
 - Software Engineering student at La Salle University
 
