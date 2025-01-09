@@ -1,6 +1,10 @@
 # Olá, eu sou Michael Leivas! 👋
 
-## Principais Habilidades
+- Para além da programação, amo viajar ✈️ e jogar video game 🎮
+- Pai de dois gatinhos 🐈
+- Sempre buscando evoluir 📈
+
+## Principais Habilidades 👨🏻‍💻
 
 <div style="display: inline_block">
  <img align="center" alt="Python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
@@ -9,7 +13,7 @@
  <img align="center" alt="JavaScript" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E />
 </div>
 
-## Vamos nos conectar!
+## Você também me encontra em:
 <div>
     <a href="mailto:macleivas@hotmail.com">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
