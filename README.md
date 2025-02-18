@@ -1,4 +1,4 @@
-# Olá, eu sou Michael Leivas! 👋
+# Olá! Seja bem vindo ao meu GitHub! 👋
 
 - Para além da programação, amo viajar ✈️ e jogar video game 🎮
 - Pai de dois gatinhos 🐈
